@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String index() {
-        return "Greetings from Demo Apps from helm chart ";
+        return "Greetings from Demo Apps helm redhat ";
     }
 
 }
